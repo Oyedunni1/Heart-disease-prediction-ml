@@ -1,0 +1,17 @@
+#Sample JSON Request:
+
+{
+    "data": {
+        "Age": -1.26,
+        "Sex": 1,
+        "ChestPainType": 0,
+        "RestingBP": 1.05,
+        "Cholesterol": -0.38,
+        "FastingBS": 1,
+        "RestingECG": 2,
+        "MaxHR": 0.02,
+        "ExerciseAngina": 0,
+        "Oldpeak": -1.51,
+        "ST_Slope": 2
+    }
+}
