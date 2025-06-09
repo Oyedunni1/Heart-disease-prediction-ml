@@ -18,6 +18,15 @@ To train and compare the performance of five machine learning models in predicti
 
 ---
 
+## 🛠️ Tech Stack
+
+- `Python`
+- `scikit-learn`
+- `XGBoost`
+- `Flask`, `FastAPI`
+- `NumPy`, `Pandas`
+- `Matplotlib`, `Seaborn`
+  
 ## 🔍 Models Used
 
 | Model            | Accuracy (example) |
